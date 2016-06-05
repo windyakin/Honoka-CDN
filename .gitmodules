@@ -1,0 +1,30 @@
+[submodule "honoka/3.3.4"]
+	path = content/honoka/3.3.4
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.4-a"]
+	path = content/honoka/3.3.4-a
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.5"]
+	path = content/honoka/3.3.5
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.5-a"]
+	path = content/honoka/3.3.5-a
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.5-b"]
+	path = content/honoka/3.3.5-b
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.5-c"]
+	path = content/honoka/3.3.5-c
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.5-d"]
+	path = content/honoka/3.3.5-d
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.6"]
+	path = content/honoka/3.3.6
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.6-a"]
+	path = content/honoka/3.3.6-a
+	url = git@github.com:windyakin/Honoka.git
+[submodule "honoka/3.3.6-b"]
+	path = content/honoka/3.3.6-b
+	url = git@github.com:windyakin/Honoka.git
