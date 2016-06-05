@@ -46,3 +46,24 @@
 [submodule "content/umi/3.3.6-2"]
 	path = content/umi/3.3.6-2
 	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/nico/3.3.5a"]
+	path = content/nico/3.3.5-a
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-b"]
+	path = content/nico/3.3.5-b
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-c"]
+	path = content/nico/3.3.5-c
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-1.0.0"]
+	path = content/nico/3.3.5-1.0.0
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-1.0.1"]
+	path = content/nico/3.3.5-1.0.1
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-1.1.0"]
+	path = content/nico/3.3.6-1.1.0
+	url = git@github.com:kubosho/Nico.git
+[submodule "content/nico/3.3.5-1.1.1"]
+	path = content/nico/3.3.6-1.1.1
+	url = git@github.com:kubosho/Nico.git
