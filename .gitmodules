@@ -28,3 +28,21 @@
 [submodule "honoka/3.3.6-b"]
 	path = content/honoka/3.3.6-b
 	url = git@github.com:windyakin/Honoka.git
+[submodule "content/umi/3.3.4-1"]
+	path = content/umi/3.3.4-1
+	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/umi/3.3.5-1"]
+	path = content/umi/3.3.5-1
+	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/umi/3.3.5-2"]
+	path = content/umi/3.3.5-2
+	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/umi/3.3.5-3"]
+	path = content/umi/3.3.5-3
+	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/umi/3.3.6-1"]
+	path = content/umi/3.3.6-1
+	url = git@github.com:NKMR6194/Umi.git
+[submodule "content/umi/3.3.6-2"]
+	path = content/umi/3.3.6-2
+	url = git@github.com:NKMR6194/Umi.git
