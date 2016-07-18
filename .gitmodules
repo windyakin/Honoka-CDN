@@ -67,3 +67,9 @@
 [submodule "content/nico/3.3.5-1.1.1"]
 	path = content/nico/3.3.6-1.1.1
 	url = git@github.com:kubosho/Nico.git
+[submodule "content/rin/3.3.6-4"]
+	path = content/rin/3.3.6-4
+	url = git@github.com:raryosu/Rin.git
+[submodule "content/rin/3.3.6-3"]
+	path = content/rin/3.3.6-3
+	url = git@github.com:raryosu/Rin.git
