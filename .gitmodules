@@ -79,3 +79,6 @@
 [submodule "content/honoka/3.3.7"]
 	path = content/honoka/3.3.7
 	url = https://github.com/windyakin/Honoka.git
+[submodule "content/umi/3.3.7-1"]
+	path = content/umi/3.3.7-1
+	url = https://github.com/NKMR6194/Umi.git
