@@ -76,3 +76,6 @@
 [submodule "content/nico/3.3.6-1.1.2"]
 	path = content/nico/3.3.6-1.1.2
 	url = https://github.com/kubosho/Nico.git
+[submodule "content/honoka/3.3.7"]
+	path = content/honoka/3.3.7
+	url = https://github.com/windyakin/Honoka.git
