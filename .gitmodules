@@ -82,3 +82,6 @@
 [submodule "content/umi/3.3.7-1"]
 	path = content/umi/3.3.7-1
 	url = https://github.com/NKMR6194/Umi.git
+[submodule "content/rin/3.3.7-1"]
+	path = content/rin/3.3.7-1
+	url = https://github.com/raryosu/Rin.git
