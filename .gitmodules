@@ -103,3 +103,12 @@
 [submodule "content/honoka/4.0.0-alpha.1"]
 	path = content/honoka/4.0.0-alpha.1
 	url = https://github.com/windyakin/Honoka.git
+[submodule "content/rin/4.0.0-alpha.1"]
+	path = content/rin/4.0.0-alpha.1
+	url = https://github.com/raryosu/Rin.git
+[submodule "content/rin/4.0.0-alpha.2"]
+	path = content/rin/4.0.0-alpha.2
+	url = https://github.com/raryosu/Rin.git
+[submodule "content/rin/4.0.0-alpha.3"]
+	path = content/rin/4.0.0-alpha.3
+	url = https://github.com/raryosu/Rin.git
