@@ -1,0 +1,10 @@
+version: '2'
+services:
+  nginx:
+    image: honoka-cdn:latest
+    container_name: honoka_cdn
+    build: ./nginx
+    ports:
+      - 8000:80
+    volumes:
+      - ./content:/usr/share/nginx/honoka
