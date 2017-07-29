@@ -6,9 +6,11 @@
 
 [cdn.honokak.osaka](https://cdn.honokak.osaka/) (*Open Beta*)
 
-## Example nginx config
+## Getting started
 
-* [honoka.conf](config/honoka.conf)
+```
+docker-comopse up -d
+```
 
 ## LICENSE
 
