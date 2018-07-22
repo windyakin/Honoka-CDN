@@ -118,3 +118,6 @@
 [submodule "content/honoka/4.1.0"]
 	path = content/honoka/4.1.0
 	url = https://github.com/windyakin/Honoka.git
+[submodule "content/nico/4.0.0"]
+	path = content/nico/4.0.0
+	url = https://github.com/kubosho/Nico.git
