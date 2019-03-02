@@ -43,6 +43,24 @@
 [submodule "content/honoka/4.1.0"]
 	path = content/honoka/4.1.0
 	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.1.1"]
+	path = content/honoka/4.1.1
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.1.2"]
+	path = content/honoka/4.1.2
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.1.3"]
+	path = content/honoka/4.1.3
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.2.1"]
+	path = content/honoka/4.2.1
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.3.0"]
+	path = content/honoka/4.3.0
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.3.1"]
+	path = content/honoka/4.3.1
+	url = https://github.com/windyakin/Honoka.git
 [submodule "content/umi/3.3.4-1"]
 	path = content/umi/3.3.4-1
 	url = https://github.com/NKMR6194/Umi.git
@@ -120,4 +138,4 @@
 	url = https://github.com/raryosu/Rin.git
 [submodule "content/rin/4.0.0-alpha.3"]
 	path = content/rin/4.0.0-alpha.3
-	url = https://github.com/raryosu/Rin.git
+	url = https://github.com/raryosu/Rin.github
