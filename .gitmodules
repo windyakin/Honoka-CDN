@@ -28,6 +28,21 @@
 [submodule "honoka/3.3.6-b"]
 	path = content/honoka/3.3.6-b
 	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/3.3.7"]
+	path = content/honoka/3.3.7
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/3.3.7-a"]
+	path = content/honoka/3.3.7-a
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.0.0-alpha.1"]
+	path = content/honoka/4.0.0-alpha.1
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.0.0"]
+	path = content/honoka/4.0.0
+	url = https://github.com/windyakin/Honoka.git
+[submodule "content/honoka/4.1.0"]
+	path = content/honoka/4.1.0
+	url = https://github.com/windyakin/Honoka.git
 [submodule "content/umi/3.3.4-1"]
 	path = content/umi/3.3.4-1
 	url = https://github.com/NKMR6194/Umi.git
@@ -45,6 +60,12 @@
 	url = https://github.com/NKMR6194/Umi.git
 [submodule "content/umi/3.3.6-2"]
 	path = content/umi/3.3.6-2
+	url = https://github.com/NKMR6194/Umi.git
+[submodule "content/umi/3.3.7-1"]
+	path = content/umi/3.3.7-1
+	url = https://github.com/NKMR6194/Umi.git
+[submodule "content/umi/3.3.7-2"]
+	path = content/umi/3.3.7-2
 	url = https://github.com/NKMR6194/Umi.git
 [submodule "content/nico/3.3.5a"]
 	path = content/nico/3.3.5-a
@@ -67,42 +88,30 @@
 [submodule "content/nico/3.3.5-1.1.1"]
 	path = content/nico/3.3.6-1.1.1
 	url = https://github.com/kubosho/Nico.git
+[submodule "content/nico/3.3.6-1.1.2"]
+	path = content/nico/3.3.6-1.1.2
+	url = https://github.com/kubosho/Nico.git
+[submodule "content/nico/3.3.7-1.2.0"]
+	path = content/nico/3.3.7-1.2.0
+	url = https://github.com/kubosho/Nico.git
+[submodule "content/nico/3.3.7-1.2.1"]
+	path = content/nico/3.3.7-1.2.1
+	url = https://github.com/kubosho/Nico.git
+[submodule "content/nico/4.0.0"]
+	path = content/nico/4.0.0
+	url = https://github.com/kubosho/Nico.git
 [submodule "content/rin/3.3.6-4"]
 	path = content/rin/3.3.6-4
 	url = https://github.com/raryosu/Rin.git
 [submodule "content/rin/3.3.6-3"]
 	path = content/rin/3.3.6-3
 	url = https://github.com/raryosu/Rin.git
-[submodule "content/nico/3.3.6-1.1.2"]
-	path = content/nico/3.3.6-1.1.2
-	url = https://github.com/kubosho/Nico.git
-[submodule "content/honoka/3.3.7"]
-	path = content/honoka/3.3.7
-	url = https://github.com/windyakin/Honoka.git
-[submodule "content/umi/3.3.7-1"]
-	path = content/umi/3.3.7-1
-	url = https://github.com/NKMR6194/Umi.git
 [submodule "content/rin/3.3.7-1"]
 	path = content/rin/3.3.7-1
 	url = https://github.com/raryosu/Rin.git
-[submodule "content/nico/3.3.7-1.2.0"]
-	path = content/nico/3.3.7-1.2.0
-	url = https://github.com/kubosho/Nico.git
-[submodule "content/honoka/3.3.7-a"]
-	path = content/honoka/3.3.7-a
-	url = https://github.com/windyakin/Honoka.git
-[submodule "content/nico/3.3.7-1.2.1"]
-	path = content/nico/3.3.7-1.2.1
-	url = https://github.com/kubosho/Nico.git
-[submodule "content/umi/3.3.7-2"]
-	path = content/umi/3.3.7-2
-	url = https://github.com/NKMR6194/Umi.git
 [submodule "content/rin/3.3.7-2"]
 	path = content/rin/3.3.7-2
 	url = https://github.com/raryosu/Rin.git
-[submodule "content/honoka/4.0.0-alpha.1"]
-	path = content/honoka/4.0.0-alpha.1
-	url = https://github.com/windyakin/Honoka.git
 [submodule "content/rin/4.0.0-alpha.1"]
 	path = content/rin/4.0.0-alpha.1
 	url = https://github.com/raryosu/Rin.git
@@ -112,12 +121,3 @@
 [submodule "content/rin/4.0.0-alpha.3"]
 	path = content/rin/4.0.0-alpha.3
 	url = https://github.com/raryosu/Rin.git
-[submodule "content/honoka/4.0.0"]
-	path = content/honoka/4.0.0
-	url = https://github.com/windyakin/Honoka.git
-[submodule "content/honoka/4.1.0"]
-	path = content/honoka/4.1.0
-	url = https://github.com/windyakin/Honoka.git
-[submodule "content/nico/4.0.0"]
-	path = content/nico/4.0.0
-	url = https://github.com/kubosho/Nico.git
